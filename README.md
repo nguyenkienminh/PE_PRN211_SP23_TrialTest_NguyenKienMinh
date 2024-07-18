@@ -2,7 +2,7 @@
 
 ### MEMBER:
 
-- Nguyễn Kiến Minh \_ SE171069 (Leader, Main Back-End Dev and Front-End Dev, UI designer)
+- Nguyễn Kiến Minh \_ SE171069 (Member/Main Back-End Dev and Front-End Dev, UI designer)
 
 ## I. REQUIREMENT:
 
