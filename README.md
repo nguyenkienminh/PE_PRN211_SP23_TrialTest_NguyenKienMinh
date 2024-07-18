@@ -1,7 +1,7 @@
 # UI DESIGN: Student Management <br>
-    <img src="images/product-manage-page-1.jpg" alt="ProductManagePage1" width = 450> <br><br>
+    <img src="images/mainWindowpng.png" alt="ProductManagePage1"> <br><br>
 
-    <img src="images/product-manage-page-1.jpg" alt="ProductManagePage1" width = 450> <br><br>
+    <img src="images/Edit.png" alt="ProductManagePage1"> <br><br>
 
 ### MEMBER:
 
