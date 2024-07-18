@@ -6,6 +6,9 @@
   - **Edit** <br>
     <img src="images/Edit.png" alt="ProductManagePage1"> <br><br>
 
+    - **Login** <br>
+    <img src="images/login.png" alt="ProductManagePage1"> <br><br>
+
 ### MEMBER:
 
 - Nguyễn Kiến Minh \_ SE171069 (Member/Main Back-End Dev and Front-End Dev, UI designer)
