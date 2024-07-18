@@ -1,4 +1,4 @@
-# Team: LitJunction
+# UI DESIGN: Student Management
 
 ### MEMBER:
 
