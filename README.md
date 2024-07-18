@@ -1,6 +1,9 @@
-# UI DESIGN: Student Management <br>
-    <img src="images/mainWindowpng.png" alt="ProductManagePage1"> <br><br>
+- **GUIs:**
 
+  - **Main Window** <br>
+    <img src="images/mainWindowpng.png" alt="AdminLoginPage"> <br><br>
+
+  - **Edit** <br>
     <img src="images/Edit.png" alt="ProductManagePage1"> <br><br>
 
 ### MEMBER:
